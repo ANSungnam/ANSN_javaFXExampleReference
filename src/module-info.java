@@ -4,4 +4,5 @@ module ANSN_javaFXExampleReference {
 	requires javafx.fxml;
 
 	opens example.y211213 to javafx.graphics, javafx.fxml;
+	opens example.y211214 to javafx.graphics, javafx.fxml;
 }
